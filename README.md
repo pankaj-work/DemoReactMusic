@@ -1,3 +1,9 @@
+## Screenshots
+<div style="white-space: nowrap;">
+<img src="./screenshots/screenshot1.png" width="400" height="250"/>
+<img src="./screenshots/screenshot2.png" width="400" height="250"/>
+</div>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
