@@ -1,0 +1,15 @@
+.AppContainer {
+  background-color: #282c34;
+  display: flex;
+}
+
+.App-header {
+  background-color: #bf1bcd;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-banner {
+  width: 100%;
+}

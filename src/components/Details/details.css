@@ -1,0 +1,27 @@
+.Container {
+    background-color: #282c34;
+    display: flex;
+  }
+.DetailsHeader {
+    width: 100%;
+    background-color: #bf1bcd;
+    min-height: 100vh;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: black;
+  }
+.detailContainer {
+    background-color: blanchedalmond;
+    width: 50%;
+    padding: 5px;
+}
+.imageDetailsContainer {
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+.imageDetails {
+    width: 20vmin;
+}
